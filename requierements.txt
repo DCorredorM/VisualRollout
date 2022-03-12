@@ -1,0 +1,6 @@
+voila>=0.1.8
+matplotlib
+networkx
+ipywidgets
+graphviz
+pydot
