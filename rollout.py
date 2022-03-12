@@ -475,7 +475,7 @@ class GUI:
     
     def on_create_sons(self, b):
         cur_node = self.graph.current_path[-1]
-        l = self.c_lookahead.value
+        l = int(self.c_lookahead.value)
         
         sons = [[cur_node]]
         
