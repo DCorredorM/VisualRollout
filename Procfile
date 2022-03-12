@@ -1,1 +1,1 @@
-voila --port= --no-browser Rollout.ipynb
+web: voila --port= --no-browser Rollout.ipynb
