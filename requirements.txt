@@ -68,7 +68,6 @@ testpath
 tornado
 traitlets
 typing-extensions
-UNKNOWN==1.0
 wcwidth
 webencodings==0.5.1
 widgetsnbextension
